@@ -11,8 +11,8 @@ Desarrollador Frontend especializado en Angular con experiencia en el desarrollo
 <div align="center">
 <div align="center" style="display: flex; justify-content: center;">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=FernandezFederico&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /></br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandezFederico&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></br>
+  <img src="https://github-readme-stats.vercel.app/api?username=FernandezFederico&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandezFederico&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 
 </div>
 
