@@ -15,7 +15,9 @@ Desarrollador Frontend especializado en Angular con experiencia en el desarrollo
 
 </div>
 <div align="center">
+  
   ![](https://github-readme-streak-stats.herokuapp.com/?user=FernandezFederico&theme=dark&hide_border=false)
+  
 </div>
 
 ### 🔝 Top Contributed Repo
