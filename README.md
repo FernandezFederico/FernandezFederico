@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre Mi:
 Desarrollador Frontend especializado en Angular con experiencia en el desarrollo de aplicaciones web y proyectos personales Full Stack. Capacitado en la creación de SPA y sitios estáticos, actualmente ampliando mis conocimientos en backend y bases de datos con el objetivo de convertirme en Full Stack Developer.
 
 
